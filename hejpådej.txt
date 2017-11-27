@@ -1,9 +1,15 @@
-Hej Lars hej john
+﻿Hej Lars hej john
 
 Ehhh, nej på en annan rad.
 dfsdf
 detta är en ändring
+nu har jag gjort en ny ändring
 
+Det var en gång en liten bajskorv som hette Svamp.
+I denna branch leker man inte.
+
+
+Alltså
 SCANNING!
 .
 .
